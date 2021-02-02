@@ -1,10 +1,9 @@
 # Aersym 
 
-Aersym is a lighweight proxyserver inspired by present projects like Titanium-Lite and Aresos another project of mine that can be found here [link]
+Aersym is a lighweight proxyserver inspired by present projects like Titanium-Lite and Aresos another project of mine that can be found here https://www.github.com/RebootJavaCrash/Aresos/
 
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
 
 ```bash
 gh repo clone RebootJavaCrash/Webpage-Template
